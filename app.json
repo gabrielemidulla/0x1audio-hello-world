@@ -5,7 +5,8 @@
   "sdk": "0.1.0",
   "permissions": [],
   "dependencies": {},
-  "frontend": "index.html",
+  "frontend": "dist/index.html",
+  "cloud": true,
   "worker": {
     "runtime": "python",
     "entry": "hello.py"

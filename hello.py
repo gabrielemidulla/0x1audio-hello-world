@@ -1,4 +1,4 @@
-"""Hello World worker. The page in index.html asks the host to call hello."""
+"""Hello World worker. The page asks the host to call hello."""
 
 from ox1audio import serve
 from ox1audio.cloud.api.default import health
