@@ -1,0 +1,13 @@
+{
+  "name": "hello-world",
+  "displayName": "Hello",
+  "version": "0.1.0",
+  "sdk": "0.1.0",
+  "permissions": [],
+  "dependencies": {},
+  "frontend": "index.html",
+  "worker": {
+    "runtime": "python",
+    "entry": "hello.py"
+  }
+}
