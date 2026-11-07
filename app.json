@@ -2,13 +2,10 @@
   "name": "hello-world",
   "displayName": "Hello",
   "version": "0.1.0",
-  "sdk": "0.1.0",
-  "permissions": [],
-  "dependencies": {},
-  "frontend": "dist/index.html",
+  "sdk": "0.2.0",
   "cloud": true,
   "worker": {
     "runtime": "python",
-    "entry": "hello.py"
+    "entry": "app.py"
   }
 }
